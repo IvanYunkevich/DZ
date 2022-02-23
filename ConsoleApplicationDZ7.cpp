@@ -5,7 +5,7 @@
 #include "MyLib.h"
 using namespace std;
 
-void task1()
+void task5()
 {
 	const int size = 4;
 	const float* arr = MyLib::CreateInitArray(size);
