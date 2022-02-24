@@ -63,7 +63,7 @@ void task3()
 
 int main()
 {
-	//task1();
+	//task5();
 	//task2();
 	task3();
 	return 0;
