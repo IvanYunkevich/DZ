@@ -1,0 +1,5 @@
+﻿  ConsoleApplicationCrossAndZero.cpp
+C:\Users\Markus\source\repos\ConsoleApplicationCrossAndZero\ConsoleApplicationCrossAndZero\ConsoleApplicationCrossAndZero.cpp(202,22): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Markus\source\repos\ConsoleApplicationCrossAndZero\ConsoleApplicationCrossAndZero\ConsoleApplicationCrossAndZero.cpp(219,22): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Markus\source\repos\ConsoleApplicationCrossAndZero\ConsoleApplicationCrossAndZero\ConsoleApplicationCrossAndZero.cpp(297): warning C4715: getComputerCoord: значение возвращается не при всех путях выполнения
+  ConsoleApplicationCrossAndZero.vcxproj -> C:\Users\Markus\source\repos\ConsoleApplicationCrossAndZero\x64\Debug\ConsoleApplicationCrossAndZero.exe
